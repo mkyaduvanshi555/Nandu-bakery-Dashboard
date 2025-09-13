@@ -8,9 +8,7 @@ This project is a comprehensive data analysis and visualization dashboard built 
 
 **Dashboard Preview**
 
-Here is a preview of the final interactive dashboard:
-
-*(To use this, make sure to save your dashboard screenshot in an `images` folder in your repository and name the file exactly as shown above.)*
+Here is a preview of the final interactive dashboard.
 
 -----
 
